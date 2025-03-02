@@ -1,0 +1,27 @@
+.results-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.results-page h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.maintenance-message {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f8d7da;
+  border: 1px solid #f5c6cb;
+  border-radius: 5px;
+  color: #721c24;
+}
+
+.maintenance-message h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.maintenance-message p {
+  font-size: 16px;
+}
