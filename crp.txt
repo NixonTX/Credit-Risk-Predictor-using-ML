@@ -1,26 +1,3 @@
-
-### **Step 1: Understand the Problem**
-1. **What is Credit Risk Prediction?**
-   - It’s a classification problem where the goal is to predict whether a loan applicant is likely to default (high risk) or repay (low risk) based on their financial and personal data.
-2. **Key Inputs**:
-   - Applicant data (e.g., income, credit score, employment status, loan amount, debt-to-income ratio).
-3. **Output**:
-   - A binary prediction: "High Risk" or "Low Risk."
-
----
-
-### **Step 2: Plan the Web Application**
-1. **User Interface (UI)**:
-   - A form where users (e.g., bank employees or loan officers) can input applicant details.
-   - A results page to display the prediction (e.g., "Low Risk" or "High Risk").
-   - Optional: Visualizations (e.g., risk probability score, feature importance).
-2. **User Flow**:
-   - User inputs data → Clicks "Predict" → Prediction is displayed.
-3. **Design**:
-   - Keep it simple and professional. Use clear labels and instructions for input fields.
-
----
-
 ### **Step 3: Machine Learning Workflow**
 1. **Data Collection**:
    - Gather historical loan applicant data with features like income, credit score, employment status, and labels (defaulted or repaid).
