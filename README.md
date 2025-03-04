@@ -42,11 +42,7 @@ This project is a **Machine Learning-based Loan Approval Prediction System**. It
 - **React**: JavaScript library for building the user interface.
 - **Axios**: For making HTTP requests to the backend.
 - **Recharts**: For visualizing feature importance and probability.
-
-### Deployment
-- **Heroku**: For deploying the Flask backend.
-- **Netlify**: For deploying the React frontend.
-
+- 
 ---
 
 ## Installation
@@ -59,8 +55,8 @@ This project is a **Machine Learning-based Loan Approval Prediction System**. It
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/loan-approval-prediction.git
-   cd loan-approval-prediction/backend
+   git clone https://github.com/NixonTX/Credit-Risk-Predictor-using-ML.git
+   cd Credit-Risk-Predictor-using-ML/backend
    ```
 
 2. Create a virtual environment:
@@ -155,20 +151,6 @@ The React frontend interacts with the Flask backend to:
 3. Display the prediction, probability, and feature importance.
 
 ---
-
-## Deployment
-### Backend
-1. Deploy the Flask app to **Heroku**:
-   ```bash
-   heroku create
-   git push heroku main
-   ```
-
-### Frontend
-1. Build the React app:
-   ```bash
-   npm run build
-   ```
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
