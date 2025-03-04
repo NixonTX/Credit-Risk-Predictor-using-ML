@@ -15,7 +15,7 @@ A web app built with React and Flask to predict loan approval using machine lear
 ---
 
 ## Project Overview
-This project is a **Machine Learning-based Loan Approval Prediction System**. It predicts whether a loan application should be approved or rejected based on various features such as income, loan amount, CIBIL score, and asset values. The system consists of:
+This project is a **Machine Learning based Loan Approval Prediction System**. It predicts whether a loan application should be approved or rejected based on various features such as income, loan amount, CIBIL score, and asset values. The system consists of:
 - A **Flask backend** that serves the machine learning model and provides a REST API.
 - A **React frontend** that allows users to input data and view the prediction results.
 
@@ -143,6 +143,7 @@ This project is a **Machine Learning-based Loan Approval Prediction System**. It
       }
   }
   ```
+---
 
 ## Frontend Integration
 The React frontend interacts with the Flask backend to:
